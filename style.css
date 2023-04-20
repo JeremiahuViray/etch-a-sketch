@@ -1,0 +1,19 @@
+* {
+}
+
+body {
+  min-height: 100dvh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.canvas {
+  border: solid 1px black;
+  height: 40rem;
+  width: 40rem;
+  display: grid;
+}
+
+.div {
+  border: solid 1px black;
+}
